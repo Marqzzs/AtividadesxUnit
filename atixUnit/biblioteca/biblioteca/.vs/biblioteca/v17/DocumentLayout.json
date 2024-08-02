@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mauricio\\Desktop\\atixUnit\\biblioteca\\biblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CBDE5C2-1CF1-4275-A761-FDC0600B36C5}|..\\BibliotecaUnit\\BibliotecaUnit.csproj|c:\\users\\mauricio\\desktop\\atixunit\\biblioteca\\bibliotecaunit\\bibliotecatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59D8356C-95C3-4DAB-92F7-C02E72529F32}|biblioteca.csproj|c:\\users\\mauricio\\desktop\\atixunit\\biblioteca\\biblioteca\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59D8356C-95C3-4DAB-92F7-C02E72529F32}|biblioteca.csproj|solutionrelative:biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59D8356C-95C3-4DAB-92F7-C02E72529F32}|biblioteca.csproj|c:\\users\\mauricio\\desktop\\atixunit\\biblioteca\\biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59D8356C-95C3-4DAB-92F7-C02E72529F32}|biblioteca.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BibliotecaTest.cs",
+              "DocumentMoniker": "C:\\Users\\Mauricio\\Desktop\\atixUnit\\biblioteca\\BibliotecaUnit\\BibliotecaTest.cs",
+              "RelativeDocumentMoniker": "..\\BibliotecaUnit\\BibliotecaTest.cs",
+              "ToolTip": "C:\\Users\\Mauricio\\Desktop\\atixUnit\\biblioteca\\BibliotecaUnit\\BibliotecaTest.cs",
+              "RelativeToolTip": "..\\BibliotecaUnit\\BibliotecaTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T23:40:36.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Biblioteca.cs",
+              "DocumentMoniker": "C:\\Users\\Mauricio\\Desktop\\atixUnit\\biblioteca\\biblioteca\\Biblioteca.cs",
+              "RelativeDocumentMoniker": "Biblioteca.cs",
+              "ToolTip": "C:\\Users\\Mauricio\\Desktop\\atixUnit\\biblioteca\\biblioteca\\Biblioteca.cs",
+              "RelativeToolTip": "Biblioteca.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T23:38:17.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mauricio\\Desktop\\atixUnit\\biblioteca\\biblioteca\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Mauricio\\Desktop\\atixUnit\\biblioteca\\biblioteca\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T23:16:17.632Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
