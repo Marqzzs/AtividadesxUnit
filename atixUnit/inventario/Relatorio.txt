@@ -1,0 +1,58 @@
+
+Relatório de Testes Unitários
+Projeto:Inventario  
+Data: 02/08/2024  
+Responsável:Mauricio
+
+Sumário
+
+1. Introdução
+2. Objetivos dos Testes
+3. Ambiente de Testes
+4. Metodologia de Testes
+5. Casos de Teste
+6. Resultados dos Testes
+7. Conclusão
+8. Anexos
+
+Introdução
+
+Este relatório tem como objetivo documentar os testes unitários realizados no projeto Inventario. O relatório apresenta o contexto do projeto, os objetivos dos testes, a metodologia adotada, os resultados obtidos e as conclusões finais.
+
+Objetivos dos Testes
+
+- Garantir que as funcionalidades principais do projeto estejam funcionando corretamente.
+- Verificar a robustez e a confiabilidade do código.
+- Identificar e corrigir possíveis bugs.
+
+Ambiente de Testes
+
+Sistema Operacional: Windows 10
+Versão do .NET Core/Framework: .NET Core 8.0
+Ferramenta de Teste: xUnit
+Outros Detalhes Relevantes: Ambiente de desenvolvimento Visual Studio 2022
+
+
+Metodologia de Testes
+
+Os testes unitários foram realizados utilizando a ferramenta xUnit. A abordagem adotada envolveu a criação de casos de teste para cada funcionalidade principal do sistema, com o objetivo de validar o comportamento esperado. A estratégia de testes incluiu a execução automatizada dos testes e a verificação manual dos resultados.
+
+Casos de Teste
+
+| ID  | Descrição do Caso de Teste                                         | Entrada                      | Saída Esperada                | Saída Real                    	| Status   |
+|-----|--------------------------------------------------------------------|------------------------------|-------------------------------|-------------------------------------|----------|
+| 1   | Testar criação de um novo pedido                                   | Dados do pedido              | Pedido criado com sucesso     | Pedido criado com sucesso     	| Aprovado |
+| 2   | AdicionarProduto_NovoProduto_ProdutoAdicionado                     | "ProdutoA", 10               | Quantidade = 10               | Quantidade = 10               	| Aprovado |
+| 3   | AdicionarProduto_ProdutoExistente_QuantidadeIncrementada           | "ProdutoA", 5 (após adicionar 10) | Quantidade = 15 	  | Quantidade = 10               	| Reprovado |
+| 4   | ObterQuantidade_ProdutoNaoExistente_RetornaZero                    | "ProdutoNaoExistente"        | Quantidade = 0                | Quantidade = 0                	| Aprovado |
+
+Resultados dos Testes
+
+Total de Casos de Teste: 4
+Casos Aprovados: 3
+Casos Reprovados: 1
+Percentual de Sucesso: 75%
+
+Conclusão
+
+Os testes unitários realizados no projeto Inventario mostraram que a maioria das funcionalidades principais estão funcionando conforme o esperado. No entanto, o teste `AdicionarProduto_ProdutoExistente_QuantidadeIncrementada` falhou, indicando que a quantidade do produto não foi incrementada corretamente quando o produto já existia no inventário. Recomenda-se a revisão e correção do método `AdicionarProduto` na classe `Inventory` para resolver este problema. Após a correção, é necessário reexecutar os testes para garantir que todas as funcionalidades estejam funcionando corretamente.

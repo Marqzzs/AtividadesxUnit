@@ -5529,11 +5529,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mauricio\\Desktop\\atixUnit\\inventario\\Inventariotest\\Inventariotest.csproj",
+      "projectUniqueName": "C:\\Users\\Mauricio\\Desktop\\AtividadesxUnit\\atixUnit\\inventario\\Inventariotest\\Inventariotest.csproj",
       "projectName": "Inventariotest",
-      "projectPath": "C:\\Users\\Mauricio\\Desktop\\atixUnit\\inventario\\Inventariotest\\Inventariotest.csproj",
+      "projectPath": "C:\\Users\\Mauricio\\Desktop\\AtividadesxUnit\\atixUnit\\inventario\\Inventariotest\\Inventariotest.csproj",
       "packagesPath": "C:\\Users\\Mauricio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mauricio\\Desktop\\atixUnit\\inventario\\Inventariotest\\obj\\",
+      "outputPath": "C:\\Users\\Mauricio\\Desktop\\AtividadesxUnit\\atixUnit\\inventario\\Inventariotest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mauricio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5550,8 +5550,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Mauricio\\Desktop\\atixUnit\\inventario\\Inventario\\Inventario.csproj": {
-              "projectPath": "C:\\Users\\Mauricio\\Desktop\\atixUnit\\inventario\\Inventario\\Inventario.csproj"
+            "C:\\Users\\Mauricio\\Desktop\\AtividadesxUnit\\atixUnit\\inventario\\Inventario\\Inventario.csproj": {
+              "projectPath": "C:\\Users\\Mauricio\\Desktop\\AtividadesxUnit\\atixUnit\\inventario\\Inventario\\Inventario.csproj"
             }
           }
         }

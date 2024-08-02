@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mauricio\\Desktop\\atixUnit\\inventario\\Inventario\\Inventario.csproj": {}
+    "C:\\Users\\Mauricio\\Desktop\\AtividadesxUnit\\atixUnit\\inventario\\Inventario\\Inventario.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mauricio\\Desktop\\atixUnit\\inventario\\Inventario\\Inventario.csproj": {
+    "C:\\Users\\Mauricio\\Desktop\\AtividadesxUnit\\atixUnit\\inventario\\Inventario\\Inventario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mauricio\\Desktop\\atixUnit\\inventario\\Inventario\\Inventario.csproj",
+        "projectUniqueName": "C:\\Users\\Mauricio\\Desktop\\AtividadesxUnit\\atixUnit\\inventario\\Inventario\\Inventario.csproj",
         "projectName": "Inventario",
-        "projectPath": "C:\\Users\\Mauricio\\Desktop\\atixUnit\\inventario\\Inventario\\Inventario.csproj",
+        "projectPath": "C:\\Users\\Mauricio\\Desktop\\AtividadesxUnit\\atixUnit\\inventario\\Inventario\\Inventario.csproj",
         "packagesPath": "C:\\Users\\Mauricio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mauricio\\Desktop\\atixUnit\\inventario\\Inventario\\obj\\",
+        "outputPath": "C:\\Users\\Mauricio\\Desktop\\AtividadesxUnit\\atixUnit\\inventario\\Inventario\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mauricio\\AppData\\Roaming\\NuGet\\NuGet.Config",
