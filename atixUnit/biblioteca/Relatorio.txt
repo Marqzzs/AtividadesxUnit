@@ -1,0 +1,54 @@
+
+Relatório de Testes Unitários 
+Projeto: Biblioteca  
+Data: 02/08/2024  
+Responsável: Mauricio
+
+Sumário
+
+1. Introdução
+2. Objetivos dos Testes
+3. Ambiente de Testes
+4. Metodologia de Testes
+5. Casos de Teste
+6. Resultados dos Testes
+7. Conclusão
+8. Anexos
+
+Introdução
+
+Este relatório tem como objetivo documentar os testes unitários realizados no projeto Biblioteca. O relatório apresenta o contexto do projeto, os objetivos dos testes, a metodologia adotada, os resultados obtidos e as conclusões finais.
+
+Objetivos dos Testes
+
+- Garantir que as funcionalidades principais do projeto estejam funcionando corretamente.
+- Verificar a robustez e a confiabilidade do código.
+- Identificar e corrigir possíveis bugs.
+
+Ambiente de Testes
+
+Sistema Operacional: Windows 10
+Versão do .NET Core/Framework: .NET Core 8.0
+Ferramenta de Teste: xUnit
+Outros Detalhes Relevantes: Ambiente de desenvolvimento Visual Studio 2022
+
+Metodologia de Testes
+
+Os testes unitários foram realizados utilizando a ferramenta xUnit. A abordagem adotada envolveu a criação de casos de teste para cada funcionalidade principal do sistema, com o objetivo de validar o comportamento esperado. A estratégia de testes incluiu a execução automatizada dos testes e a verificação manual dos resultados.
+
+Casos de Teste
+
+| ID  | Descrição do Caso de Teste              | Entrada                                | Saída Esperada                        | Saída Real                           | Status   |
+|-----|-----------------------------------------|----------------------------------------|---------------------------------------|--------------------------------------|----------|
+| 1   | AdicionarLivro                          | Livro: "O Senhor dos Anéis", "J.R.R. Tolkien" | Livro adicionado corretamente  | Livro adicionado corretamente        | Aprovado |
+
+Resultados dos Testes
+
+Total de Casos de Teste: 1
+Casos Aprovados: 1
+Casos Reprovados: 0
+Percentual de Sucesso: 100%
+
+Conclusão
+
+Os testes unitários realizados no projeto Biblioteca foram bem-sucedidos, com a funcionalidade principal de adicionar um livro ao sistema funcionando conforme o esperado. Não foram identificados bugs durante os testes. Recomenda-se a continuidade do monitoramento do código e a execução de novos testes conforme novas funcionalidades sejam adicionadas ao projeto.
